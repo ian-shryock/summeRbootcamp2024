@@ -1,0 +1,36 @@
+---
+title: 00 - Welcome
+author: ''
+weight: 1
+date: 2024-09-21
+slug: []
+categories: []
+tags: []
+subtitle: ''
+summary: ' '
+authors: []
+featured: no
+image:
+  caption: "Artwork by @allison_horst"
+  focal_point: ''
+  preview_only: no
+projects: []
+links:
+- icon: film
+  icon_pack: fas
+  name: Slides
+  url: /slides/00-slides.html
+---
+
+<script src="{{< blogdown/postref >}}index_files/fitvids/fitvids.min.js"></script>
+
+Welcome, everyone! We’re glad you’re here.
+
+------------------------------------------------------------------------
+
+## Slides
+
+<div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
+<iframe src="/slides/00-slides.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
+<script>fitvids('.shareagain', {players: 'iframe'});</script>
+</div>
