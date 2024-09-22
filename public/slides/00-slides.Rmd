@@ -66,45 +66,45 @@ class: split-four
 .column[.content[.center[<br><br><br><br><br><br>
 
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("images/dimakis.png")
+knitr::include_graphics("images/ian.png")
 ```
 
-### <u>Sarah</u>
-
-]]]
-
-.column[.content[.center[<br><br><br><br><br><br>
-
-```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("images/shryock.png")
-```
 ### <u>Ian</u>
 
-
 ]]]
-
 
 .column[.content[.center[<br><br><br><br><br><br>
 
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("images/rait.png")
+knitr::include_graphics("images/dom.png")
 ```
-
-
-### <u>Lindsay</u>
-
-]]]
-
-
-
-.column[.content[.center[<br><br><br><br><br><br>
-
-```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("images/gratz.png")
-```
-
-
 ### <u>Dominik</u>
+
+
+]]]
+
+
+.column[.content[.center[<br><br><br><br><br><br>
+
+```{r echo = FALSE, out.width="100%"}
+knitr::include_graphics("images/den.png")
+```
+
+
+### <u>Denicia</u>
+
+]]]
+
+
+
+.column[.content[.center[<br><br><br><br><br><br>
+
+```{r echo = FALSE, out.width="100%"}
+knitr::include_graphics("images/ben.png")
+```
+
+
+### <u>Ben</u>
 
 
 ]]]
