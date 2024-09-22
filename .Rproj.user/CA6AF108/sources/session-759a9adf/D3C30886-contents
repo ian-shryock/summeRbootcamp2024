@@ -45,26 +45,19 @@ links:
   url: https://rstudio.cloud/learn/primers/4.2
 ---
 
-The concept of tidy data is, as the name suggests, of primary importance in the tidyverse. This lesson will introduce you to the criteria of tidy data, why it's important, and how to reshape your raw data into a tidy format using `pivot_wider()` and `pivot_longer()`.
+<script src="{{< blogdown/postref >}}index_files/fitvids/fitvids.min.js"></script>
 
-***
+The concept of tidy data is, as the name suggests, of primary importance in the tidyverse. This lesson will introduce you to the criteria of tidy data, why it’s important, and how to reshape your raw data into a tidy format using `pivot_wider()` and `pivot_longer()`.
 
-### Slides
-
-```{r echo=FALSE}
-xaringanExtra::embed_xaringan(
-  url = "/slides/08-slides.html",
-  ratio = "16:9"
-)
-```
-
-<br>
+------------------------------------------------------------------------
 
 ### Further Reading
 
-:::book
-1. R for Data Science chapter on [tidy data](https://r4ds.had.co.nz/tidy-data.html#pivoting)
+<div class="book">
 
-2. Tutorial on [reshaping data](https://rladiessydney.org/courses/ryouwithme/02-cleanitup-5/) from R-Ladies
-Sydney
-:::
+1.  R for Data Science chapter on [tidy data](https://r4ds.had.co.nz/tidy-data.html#pivoting)
+
+2.  Tutorial on [reshaping data](https://rladiessydney.org/courses/ryouwithme/02-cleanitup-5/) from R-Ladies
+    Sydney
+
+</div>

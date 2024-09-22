@@ -28,25 +28,19 @@ links:
   url: /slides/04-slides.html
 ---
 
-Before we get started importing, wrangling, tidying, and visualizing data, we should talk about a powerful tool for chaining functions together: pipes. 
+<script src="{{< blogdown/postref >}}index_files/fitvids/fitvids.min.js"></script>
 
-***
+Before we get started importing, wrangling, tidying, and visualizing data, we should talk about a powerful tool for chaining functions together: pipes.
 
-### Slides
+------------------------------------------------------------------------
 
-```{r echo=FALSE}
-xaringanExtra::embed_xaringan(
-  url = "/slides/04-slides.html",
-  ratio = "16:9"
-)
-```
-
-<br>
 
 ### Further Reading
 
-:::book
-1. R for Data Science [Ch 18: Pipes](https://r4ds.had.co.nz/pipes.html?q=pipe#pipes)
+<div class="book">
 
-2. [Summary of Magrittr](https://magrittr.tidyverse.org) from tidyverse.org
-:::
+1.  R for Data Science [Ch 18: Pipes](https://r4ds.had.co.nz/pipes.html?q=pipe#pipes)
+
+2.  [Summary of Magrittr](https://magrittr.tidyverse.org) from tidyverse.org
+
+</div>

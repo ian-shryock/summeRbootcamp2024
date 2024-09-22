@@ -34,14 +34,6 @@ Before we get started importing, wrangling, tidying, and visualizing data, we sh
 
 ------------------------------------------------------------------------
 
-### Slides
-
-<div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
-<iframe src="/slides/04-slides.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
-<script>fitvids('.shareagain', {players: 'iframe'});</script>
-</div>
-
-<br>
 
 ### Further Reading
 

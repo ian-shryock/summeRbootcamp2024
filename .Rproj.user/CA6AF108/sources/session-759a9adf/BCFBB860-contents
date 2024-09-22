@@ -22,15 +22,9 @@ links:
   url: /slides/00-slides.html
 ---
 
-Welcome, everyone! We're glad you're here.
+<script src="{{< blogdown/postref >}}index_files/fitvids/fitvids.min.js"></script>
 
-***
+Welcome, everyone! We’re glad you’re here.
 
-## Slides 
-
-```{r echo=FALSE}
-#xaringanExtra::embed_xaringan(
-#  url = "/slides/00-slides.html"
-#)
-```
+------------------------------------------------------------------------
 

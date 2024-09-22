@@ -43,15 +43,6 @@ So far we have been using functions in base R. Now we’re going to take a first
 
 ------------------------------------------------------------------------
 
-### Slides
-
-<div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
-<iframe src="/slides/05-slides.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
-<script>fitvids('.shareagain', {players: 'iframe'});</script>
-</div>
-
-<br>
-
 ### Further Reading
 
 <div class="book">

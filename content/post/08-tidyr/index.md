@@ -51,15 +51,6 @@ The concept of tidy data is, as the name suggests, of primary importance in the 
 
 ------------------------------------------------------------------------
 
-### Slides
-
-<div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
-<iframe src="/slides/08-slides.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
-<script>fitvids('.shareagain', {players: 'iframe'});</script>
-</div>
-
-<br>
-
 ### Further Reading
 
 <div class="book">

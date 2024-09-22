@@ -40,26 +40,18 @@ links:
   url: https://rstudio.cloud/learn/primers/1.2
 ---
 
-Data comes in many different shapes and sizes, which means we need a way to represent different kinds of data in R in order to distinguish them. Today, we're going to cover the different fundamental types of data in R and give you a feel for different ways that data can be structured and indexed. 
+<script src="{{< blogdown/postref >}}index_files/fitvids/fitvids.min.js"></script>
 
-***
+Data comes in many different shapes and sizes, which means we need a way to represent different kinds of data in R in order to distinguish them. Today, we’re going to cover the different fundamental types of data in R and give you a feel for different ways that data can be structured and indexed.
 
-### Slides
-
-```{r echo=FALSE}
-xaringanExtra::embed_xaringan(
-  url = "/slides/02-slides.html",
-  ratio = "16:9"
-)
-```
-
-<br>
+------------------------------------------------------------------------
 
 ### Further Reading
 
-:::book
+<div class="book">
 
-1. R for Data Science [Ch 20: Vectors](https://r4ds.had.co.nz/vectors.html)
+1.  R for Data Science [Ch 20: Vectors](https://r4ds.had.co.nz/vectors.html)
 
-2. [This tutorial](https://jennybc.github.io/purrr-tutorial/bk00_vectors-and-lists.html) by Jenny Bryan
-:::
+2.  [This tutorial](https://jennybc.github.io/purrr-tutorial/bk00_vectors-and-lists.html) by Jenny Bryan
+
+</div>

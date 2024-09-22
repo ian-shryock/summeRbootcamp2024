@@ -43,18 +43,6 @@ Learning R can feel intimidating, and getting started is often the hardest part.
 
 ***
 
-
-### Slides
-
-```{r echo=FALSE}
-xaringanExtra::embed_xaringan(
-  url = "/slides/01-slides.html",
-  ratio = "16:9"
-)
-```
-
-<br>
-
 ### Further Reading
 
 :::book

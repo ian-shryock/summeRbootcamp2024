@@ -47,15 +47,6 @@ Data visualization is at the very core of science. In order to understand and gl
 
 ------------------------------------------------------------------------
 
-### Slides
-
-<div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
-<iframe src="/slides/09-slides.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
-<script>fitvids('.shareagain', {players: 'iframe'});</script>
-</div>
-
-<br>
-
 ### Further Reading
 
 <div class="book">

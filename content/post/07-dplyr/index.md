@@ -11,7 +11,7 @@ date: "2024-09-21"
 weight: 8
 featured: false
 draft: false
-
+social: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -51,14 +51,6 @@ When you are given data to analyze, it will almost always be in a format that ma
 
 ------------------------------------------------------------------------
 
-### Slides
-
-<div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
-<iframe src="/slides/07-slides.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
-<script>fitvids('.shareagain', {players: 'iframe'});</script>
-</div>
-
-<br>
 
 ### Further Reading
 

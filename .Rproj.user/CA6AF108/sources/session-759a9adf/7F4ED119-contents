@@ -41,32 +41,24 @@ links:
   url: https://rstudio.cloud/learn/primers/3
 ---
 
-Data visualization is at the very core of science. In order to understand and glean insights from our data, we need different ways of representing it visually. R has an incredible capacity for creating all sorts of plots, charts, and tables, and today we will only scratch the surface. We will discuss the fundamentals of the powerful ggplot2 package and the "grammar of graphics" that underlies it. 
+<script src="{{< blogdown/postref >}}index_files/fitvids/fitvids.min.js"></script>
 
-***
+Data visualization is at the very core of science. In order to understand and glean insights from our data, we need different ways of representing it visually. R has an incredible capacity for creating all sorts of plots, charts, and tables, and today we will only scratch the surface. We will discuss the fundamentals of the powerful ggplot2 package and the “grammar of graphics” that underlies it.
 
-### Slides
-
-```{r echo=FALSE}
-xaringanExtra::embed_xaringan(
-  url = "/slides/09-slides.html",
-  ratio = "16:9"
-)
-```
-
-<br>
+------------------------------------------------------------------------
 
 ### Further Reading
 
-:::book
+<div class="book">
 
-1. R for Data Science chapter on [data visualization](https://r4ds.had.co.nz/data-visualisation.html)
+1.  R for Data Science chapter on [data visualization](https://r4ds.had.co.nz/data-visualisation.html)
 
-2. Modern Dive chapter on [data visualization](https://moderndive.com/2-viz.html)
+2.  Modern Dive chapter on [data visualization](https://moderndive.com/2-viz.html)
 
-4. Cookbook for R chapter on [data visualization](http://www.cookbook-r.com/Graphs/)
+3.  Cookbook for R chapter on [data visualization](http://www.cookbook-r.com/Graphs/)
 
-4. [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+4.  [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
-5. [the ggplot flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1) by Gina Reynolds---shows how to create plots line-by-line
-:::
+5.  [the ggplot flipbook](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#1) by Gina Reynolds—shows how to create plots line-by-line
+
+</div>

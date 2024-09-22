@@ -37,27 +37,21 @@ links:
   url: https://rstudio.cloud/learn/primers/6.1
 ---
 
-Functions are the "verbs" of R---they allow you to actually do interesting things with your data. We will cover the basics of how to use functions in R, how to get access to different functions by downloading packages, some general principles for what to do when you run into problems.
+<script src="{{< blogdown/postref >}}index_files/fitvids/fitvids.min.js"></script>
 
-***
+Functions are the “verbs” of R—they allow you to actually do interesting things with your data. We will cover the basics of how to use functions in R, how to get access to different functions by downloading packages, some general principles for what to do when you run into problems.
 
-### Slides
+------------------------------------------------------------------------
 
-```{r echo=FALSE}
-xaringanExtra::embed_xaringan(
-  url = "/slides/03-slides.html",
-  ratio = "16:9"
-)
-```
-
-<br>
 
 ### Further Reading
 
-:::book
-1. [How to read an R help page](https://socviz.co/appendix.html#a-little-more-about-r) by Kieran Healy
+<div class="book">
 
-2. ["Object of type 'closure' is not subsettable"](https://rstudio.com/resources/rstudioconf-2020/object-of-type-closure-is-not-subsettable/), keynote talk by Jenny Bryan at rstudio::conf(2020)
+1.  [How to read an R help page](https://socviz.co/appendix.html#a-little-more-about-r) by Kieran Healy
 
-3. Deep dive into [debugging](https://rstudio-conf-2020.github.io/what-they-forgot/materials/debugging.pdf) by Jim Hester
-:::
+2.  [“Object of type ‘closure’ is not subsettable”](https://rstudio.com/resources/rstudioconf-2020/object-of-type-closure-is-not-subsettable/), keynote talk by Jenny Bryan at rstudio::conf(2020)
+
+3.  Deep dive into [debugging](https://rstudio-conf-2020.github.io/what-they-forgot/materials/debugging.pdf) by Jim Hester
+
+</div>
