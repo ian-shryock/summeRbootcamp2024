@@ -29,8 +29,8 @@ Welcome, everyone! We're glad you're here.
 ## Slides 
 
 ```{r echo=FALSE}
-xaringanExtra::embed_xaringan(
-  url = "/slides/00-slides.html"
-)
+#xaringanExtra::embed_xaringan(
+#  url = "/slides/00-slides.html"
+#)
 ```
 
