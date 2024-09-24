@@ -224,8 +224,6 @@ Other custom start-up message options include:
 
 --
 
-For more information on using these packages, I would recommend reading [the Customise your RStudio Startup Message tutorial](https://damien-datasci-blog.netlify.app/post/2020-12-31-pimp-your-r-startup-message/) from Damien Dupré.
-
 ---
 
 # Multicursor Selection
@@ -575,7 +573,7 @@ knitr::include_graphics("images/gganimate.gif")
 
 --
 
-Check out the [resources](https://uorbootcamp2022.netlify.app/resources/) page on the [UO R Bootcamp](https://uorbootcamp2022.netlify.app) website for additional readings, websites, tutorials, and classes!
+Check out the [resources](https://uorbootcamp2024.netlify.app/resources/) page on the [UO R Bootcamp](https://uorbootcamp2024.netlify.app/) website for additional readings, websites, tutorials, and classes!
 
 ---
 class: yourturn, center, middle

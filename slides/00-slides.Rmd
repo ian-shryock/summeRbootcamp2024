@@ -147,14 +147,14 @@ class: split-three
 
 .column[.content[.center[
 <br><br><br><br><br>
-# [`r fontawesome::fa("google", height = "120px")`](https://drive.google.com/drive/folders/1NXdlOZ5ELdxbqGcO6oZR3UnaTv4GIcfP)
+# [`r fontawesome::fa("google", height = "120px")`](https://drive.google.com/drive/folders/1FeJs6gc8W03pUbYebv1_Wqp5DjxVX_wk?usp=sharing)
 
 ### Google drive
 ]]]
 
 .column[.content[.center[
 <br><br><br><br><br>
-# [`r fontawesome::fa("github", height = "120px")`](https://github.com/ian-shryock/summeR-bootcamp-2024)
+# [`r fontawesome::fa("github", height = "120px")`](https://github.com/ian-shryock/summeRbootcamp2024)
 
 ### GitHub
 ]]]
